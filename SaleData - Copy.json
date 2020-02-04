@@ -1,0 +1,71 @@
+[
+    {
+        "saleDate": "01-29-2020",
+        "saleHour": [
+            {
+                "hour": 96,
+                "amount": 100
+            },
+            {
+                "hour": 102,
+                "amount": 200
+            }
+            
+        ]
+    },
+    {
+        "saleDate": "01-30-2020",
+        "saleHour": [
+            {
+                "hour": 110,
+                "amount": 1000
+            },
+            {
+                "hour": 21,
+                "amount": 2000
+            }
+        ]
+    },
+
+    {
+        "saleDate": "01-31-2020",
+        "saleHour": [
+            {
+                "hour": 16,
+                "amount": 1500
+            },
+            {
+                "hour": 29,
+                "amount": 2500
+            }
+        ]
+    },
+    {
+        "saleDate": "02-01-2020",
+        "saleHour": [
+            {
+                "hour": 12,
+                "amount": 3500
+            },
+            {
+                "hour": 28,
+                "amount": 5000
+            }
+        ]
+    },
+    {
+        "saleDate": "02-02-2020",
+        "saleHour": [
+            {
+                "hour": 10,
+                "amount": 4000
+            },
+            {
+                "hour": 22,
+                "amount": 6000
+            }
+        ]
+    }
+]
+
+

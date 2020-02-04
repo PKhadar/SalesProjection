@@ -1,0 +1,131 @@
+[
+    {
+        "name": "01-29-2020",
+      "series": [
+        {
+          "name": 8,
+          "value": 100
+        },
+        {
+          "name": 9,
+          "value": 200
+        },
+        {
+          "name": 10,
+          "value": 100
+        },
+        {
+          "name": 11,
+          "value": 200
+        },
+        {
+          "name": 12,
+          "value": 200
+        }
+
+      ]
+    },
+    {
+        "name": "01-30-2020",
+      "series": [
+        {
+          "name": 8,
+          "value": 10
+        },
+        {
+          "name": 9,
+          "value": 25
+        },
+        {
+          "name": 10,
+          "value": 100
+        },
+        {
+          "name": 11,
+          "value": 250
+        },
+        {
+          "name": 12,
+          "value": 150
+        }
+      ]
+    },
+
+    {
+        "name": "01-31-2020",
+      "series": [
+        {
+          "name": 8,
+          "value": 40
+        },
+        {
+          "name": 9,
+          "value": 60
+        },
+        {
+          "name": 10,
+          "value": 30
+        },
+        {
+          "name": 11,
+          "value": 20
+        },
+        {
+          "name": 12,
+          "value": 80
+        }
+      ]
+    },
+    {
+        "name": "02-01-2020",
+      "series": [
+        {
+          "name": 8,
+          "value": 15
+        },
+        {
+          "name": 9,
+          "value": 35
+        },
+        {
+          "name": 10,
+          "value": 75
+        },
+        {
+          "name": 11,
+          "value": 80
+        },
+        {
+          "name": 12,
+          "value": 90
+        }
+      ]
+    },
+    {
+        "name": "02-02-2020",
+      "series": [
+        {
+          "name": 19,
+          "value": 90
+        },
+        {
+          "name": 20,
+          "value": 110
+        },
+        {
+          "name": 21,
+          "value": 130
+        },
+        {
+          "name": 22,
+          "value": 160
+        },
+        {
+          "name": 23,
+          "value": 100
+        }
+      ]
+    }
+]
+
+
